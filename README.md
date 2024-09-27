@@ -2,8 +2,8 @@
 -  Hi, I’m @holyoreotaco
 -   I am interested in front end Web Development and Programming.
 -   This is currently centred as a personal profile that I am using to make project flow easier.
--   I am also a complete beginner and am hoping to both learn and do more as I make more projects.
--   Languages: Currently working with Python, Javascript, C#
+-   Moderate experience with Python, HTML and CSS.
+-   Languages: Currently working with Python, Javascript, and beginning to learn C#.
 -   Pronouns: he/him 💜
 
 <!---
